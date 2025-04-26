@@ -13,7 +13,7 @@
         new Mahasiswa { Nama = "Ariq Hisyam Nabl", Nim = "103022300034" },
         new Mahasiswa { Nama = "Relingga Aditya", Nim = "103022300107" },
           new Mahasiswa { Nama = "Ade Fathia Nuraini", Nim = "103022300134" },
-           new Mahasiswa { Nama = "Nur Ahmadi Aditya Nanda", Nim = "103022300149" },
+           new Mahasiswa { Nama = "Nur Ahmadi Aditya Nanda", Nim = "10302230049" },
                  new Mahasiswa { Nama = "Muhammad Farras", Nim = "103022300042" },
     };
 
